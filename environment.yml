@@ -1,0 +1,5 @@
+name: eth-light-client
+channels:
+  - defaults
+dependencies:
+ - python=3.6
